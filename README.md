@@ -25,3 +25,4 @@ apenas meu chefe me passa, alem disso o script faz requisições a um webservice
 - Fazer tratamento de dados e fazer requisições ao webservice 
 - gerar o resultado em 'csv' ou 'xlsx'
 
+> o codigo esta incompleto e esse readme tambem XD, mas vou atualizando ;p
