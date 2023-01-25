@@ -5,7 +5,8 @@
 
 `Disclaimer:` 
 ***Nenhum dado sensivel/pessoal esta sendo divulgado***, o intuito deste repositorio é me ajudar com versionamento e 
-treinar programação em python ;p
+treinar programação em python ;p 
+- (Wilson é um trocadilho por causa do filme 'Náufrago' ksks e essa demanda veio no final do censo com uma certa urgência e estavamos perdidos XD)
 
 `Uma breve introdução:`
 > Durante a reta final do censo surgiu o disk censo para população ligar para o IBGE para informar que não foi recenseado... enfim.
